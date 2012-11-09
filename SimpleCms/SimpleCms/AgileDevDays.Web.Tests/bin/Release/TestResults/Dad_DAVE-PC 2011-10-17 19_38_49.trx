@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dc801d3b-ff2d-4c20-b315-111830582103" name="Dad@DAVE-PC 2011-10-17 19:38:49" runUser="DAVE-PC\Dad" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="90f35997-4f3d-4dc5-a464-affe05d400d0">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Dad_DAVE-PC 2011-10-17 19_38_49" />
+  </TestSettings>
+  <Times creation="2011-10-17T19:38:49.2890741-05:00" queuing="2011-10-17T19:38:50.0941201-05:00" start="2011-10-17T19:38:50.8771649-05:00" finish="2011-10-17T19:38:51.5782050-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MembershipManager" storage="c:\users\dad\documents\visual studio 2010\projects\agiledevdays\agiledevdays\agiledevdays.web.tests\bin\release\agiledevdays.web.tests.dll" id="1040c504-7b62-70b4-fc63-b0aa64a7e061">
+      <Execution timeOut="1800000" id="dcab187b-30ed-4abd-82c6-26246315465d" />
+      <TestMethod codeBase="C:/Users/Dad/Documents/Visual Studio 2010/Projects/AgileDevDays/AgileDevDays/AgileDevDays.Web.Tests/bin/Release/AgileDevDays.Web.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgileDevDays.Web.Tests.Controllers.HomeControllerTest, AgileDevDays.Web.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MembershipManager" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1040c504-7b62-70b4-fc63-b0aa64a7e061" executionId="dcab187b-30ed-4abd-82c6-26246315465d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dcab187b-30ed-4abd-82c6-26246315465d" testId="1040c504-7b62-70b4-fc63-b0aa64a7e061" testName="MembershipManager" computerName="DAVE-PC" duration="00:00:00.4471517" startTime="2011-10-17T19:38:50.8961660-05:00" endTime="2011-10-17T19:38:51.4221961-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dcab187b-30ed-4abd-82c6-26246315465d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method AgileDevDays.Web.Tests.Controllers.HomeControllerTest.MembershipManager threw exception: 
+System.InvalidOperationException: The type 'AgileDevDays.Infrastructure.AuthenticationSources' was not mapped. Check that the type has not been explicitly excluded by using the Ignore method or NotMappedAttribute data annotation. Verify that the type was defined as a class, is not primitive, nested or generic, and does not inherit from EntityObject.</Message>
+          <StackTrace>    at System.Data.Entity.Internal.DbSetDiscoveryService.GetSets()
+   at System.Data.Entity.Internal.DbSetDiscoveryService.InitializeSets()
+   at System.Data.Entity.DbContext..ctor()
+   at AgileDevDays.Core.Membership.MembershipManager..ctor() in C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\Membership\MembershipManager.cs:line 8
+   at AgileDevDays.Web.Tests.Controllers.HomeControllerTest.MembershipManager() in C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Web.Tests\Controllers\HomeControllerTest.cs:line 45
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

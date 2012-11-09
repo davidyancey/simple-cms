@@ -1,0 +1,13 @@
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\AgileDevDays.Core.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\AgileDevDays.Core.pdb
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\Castle.Core.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\Castle.Windsor.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\Castle.Core.xml
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\Castle.Windsor.xml
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\obj\Release\AgileDevDays.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\obj\Release\AgileDevDays.Core.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\obj\Release\AgileDevDays.Core.pdb
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\AgileDevDays.Infrastructure.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\AgileDevDays.Infrastructure.pdb
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\AutoMapper.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Release\AutoMapper.xml

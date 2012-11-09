@@ -1,0 +1,1 @@
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\packages\AutoMapper.2.0.0\lib\net40-client\AutoMapper.dll

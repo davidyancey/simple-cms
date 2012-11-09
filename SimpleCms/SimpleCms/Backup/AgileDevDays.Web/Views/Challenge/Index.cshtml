@@ -1,0 +1,31 @@
+﻿@using AgileDevDays.Web.Models;
+@model AgileDevDays.Web.Models.ChallengeListModel
+
+@{
+    Dictionary<string, List<ChallengeModel>> challenges = Model.Challenges;
+    int sectioncount = 1;
+}
+<section>
+    <h3>@Model.Title</h3>
+</section>
+<section>
+@foreach (KeyValuePair<string, List<ChallengeModel>> challenge in challenges)
+{    
+    <fieldset id="contentBox" class="challenges">  
+    <legend>@challenge.Key</legend>      
+        @foreach (ChallengeModel cm in @challenge.Value)
+        {
+            <ul>
+                <li>@Html.ActionLink(cm.ChallengeTitle, "Content", "Challenge", new { challengeId = cm.ChallengeId }, null)</li>
+            </ul>
+        }
+    </fieldset>
+        if (sectioncount > 3)
+        {
+            sectioncount = 1;
+        <div class="clear" />
+    }
+    sectioncount += 1;
+}
+<div class="clear" />
+</section>

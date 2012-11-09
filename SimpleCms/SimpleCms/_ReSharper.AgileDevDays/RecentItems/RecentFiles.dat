@@ -1,0 +1,40 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Home/f:Index.cshtml" caret="4180" fromTop="17" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Content/f:Site.css" caret="6497" fromTop="129" />
+    <File id="15BEDA2B-C847-4927-B89D-6078B39344CE/d:Membership/f:MembershipManager.cs" caret="743" fromTop="19" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Controllers/f:AuthController.cs" caret="556" fromTop="7" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/f:IRepository.cs" caret="0" fromTop="0" />
+    <File id="15BEDA2B-C847-4927-B89D-6078B39344CE/d:Authentication/d:Twitter/f:Common.cs" caret="0" fromTop="0" />
+    <File id="15BEDA2B-C847-4927-B89D-6078B39344CE/d:Authentication/d:Twitter/f:Manager.cs" caret="639" fromTop="11" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Auth/f:Twitter.cshtml" caret="100" fromTop="6" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Auth/f:Login.cshtml" caret="263" fromTop="9" />
+    <File id="15BEDA2B-C847-4927-B89D-6078B39344CE/d:Helper/f:Social.cs" caret="975" fromTop="9" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Controllers/f:BaseController.cs" caret="335" fromTop="0" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Controllers/f:ChallengeController.cs" caret="819" fromTop="5" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Models/f:ChallengeListModel.cs" caret="225" fromTop="8" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Models/f:ContentModel.cs" caret="380" fromTop="12" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/d:Models/f:ChallengeEntity.cs" caret="424" fromTop="14" />
+    <File id="44214C69-F8AD-40D9-AAFA-F12C28F207D7/f:MembershipManagerTest.cs" caret="411" fromTop="16" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Shared/f:_Layout.cshtml" caret="421" fromTop="8" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Shared/d:Challenges/f:_Invest.cshtml" caret="1568" fromTop="17" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/f:Global.asax.cs" caret="630" fromTop="21" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Challenge/f:Content.cshtml" caret="0" fromTop="0" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Challenge/f:Index.cshtml" caret="256" fromTop="10" />
+    <File id="15BEDA2B-C847-4927-B89D-6078B39344CE/d:Content/f:ContentManager.cs" caret="427" fromTop="3" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Models/f:ChallengeModel.cs" caret="0" fromTop="0" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/d:Models/f:GalleryEntity.cs" caret="87" fromTop="3" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/f:Repository.cs" caret="686" fromTop="22" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/d:Entities/f:ApplicationSourceEntities.cs" caret="448" fromTop="11" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/d:Entities/f:ChallengeEntities.cs" caret="0" fromTop="0" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/d:Entities/f:ImageGalleryEntities.cs" caret="0" fromTop="0" />
+    <File id="C3333A73-C24E-4CF5-BE5E-A0CCDC019660/d:Entities/f:PageContentEntities.cs" caret="706" fromTop="20" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Shared/f:_Layout.cshtml" caret="1878" fromTop="4" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Content/f:Site.css" caret="7726" fromTop="15" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Shared/d:Challenges/f:_Invest.cshtml" caret="837" fromTop="14" />
+    <File id="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34/d:Views/d:Home/f:Index.cshtml" caret="4166" fromTop="15" />
+  </RecentEdits>
+</RecentFiles>

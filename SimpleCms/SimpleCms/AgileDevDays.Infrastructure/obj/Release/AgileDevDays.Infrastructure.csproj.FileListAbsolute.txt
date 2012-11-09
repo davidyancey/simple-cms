@@ -1,0 +1,5 @@
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Infrastructure\bin\Release\AgileDevDays.Infrastructure.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Infrastructure\bin\Release\AgileDevDays.Infrastructure.pdb
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Infrastructure\obj\Release\AgileDevDays.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Infrastructure\obj\Release\AgileDevDays.Infrastructure.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Infrastructure\obj\Release\AgileDevDays.Infrastructure.pdb

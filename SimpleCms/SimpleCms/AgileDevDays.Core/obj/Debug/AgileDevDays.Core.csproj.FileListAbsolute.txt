@@ -1,0 +1,9 @@
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Debug\AgileDevDays.Core.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Debug\AgileDevDays.Core.pdb
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Debug\Castle.Core.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Debug\Castle.Windsor.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Debug\Castle.Core.xml
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\bin\Debug\Castle.Windsor.xml
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\obj\Debug\AgileDevDays.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\obj\Debug\AgileDevDays.Core.dll
+C:\Users\Dad\Documents\Visual Studio 2010\Projects\AgileDevDays\AgileDevDays\AgileDevDays.Core\obj\Debug\AgileDevDays.Core.pdb
