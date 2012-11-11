@@ -1,0 +1,16 @@
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\obj\Debug\SimpleCms.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\SimpleCms.Core.dll.config
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\SimpleCms.Core.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\SimpleCms.Core.pdb
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\AutoMapper.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\EntityFramework.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\SimpleCms.Infrastructure.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\System.Net.Http.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\SimpleCms.Infrastructure.pdb
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\AutoMapper.xml
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\EntityFramework.xml
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\System.Net.Http.xml
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\obj\Debug\SimpleCms.Core.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Core\obj\Debug\SimpleCms.Core.pdb

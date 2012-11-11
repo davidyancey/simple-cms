@@ -1,8 +1,0 @@
-<Modules>
-  <Module PersistentId="4EE7A0C0-57A5-4A9B-9D1D-6E3BFAC74F34" ModuleId="AgileDevDays.Web" />
-  <Module PersistentId="15BEDA2B-C847-4927-B89D-6078B39344CE" ModuleId="AgileDevDays.Core" />
-  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Web" />
-  <Module PersistentId="C3333A73-C24E-4CF5-BE5E-A0CCDC019660" ModuleId="AgileDevDays.Infrastructure" />
-  <Module PersistentId="44214C69-F8AD-40D9-AAFA-F12C28F207D7" ModuleId="AgileDevDays.Web.Tests" />
-  <Module PersistentId="System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.ApplicationServices" />
-</Modules>

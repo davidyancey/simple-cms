@@ -1,0 +1,7 @@
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\bin\Release\SimpleCms.Infrastructure.dll.config
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\bin\Release\SimpleCms.Infrastructure.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\bin\Release\SimpleCms.Infrastructure.pdb
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\bin\Release\EntityFramework.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\bin\Release\EntityFramework.xml
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\obj\Release\SimpleCms.Infrastructure.dll
+C:\Users\Dad\Documents\GitHub\simple-cms\SimpleCms\SimpleCms\SimpleCms.Infrastructure\obj\Release\SimpleCms.Infrastructure.pdb
