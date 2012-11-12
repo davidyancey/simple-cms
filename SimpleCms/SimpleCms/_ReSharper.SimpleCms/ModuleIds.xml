@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6B22EBAC-3BAB-47D8-844E-C4A58A215FA6" ModuleId="SimpleCms.Core" />
+  <Module PersistentId="24F26503-2370-4397-8630-882BA477CF51" ModuleId="SimpleCms.Infrastructure" />
+</Modules>

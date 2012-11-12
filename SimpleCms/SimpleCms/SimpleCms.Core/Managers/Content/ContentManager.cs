@@ -10,19 +10,23 @@ using System.Linq;
 
 namespace SimpleCms.Core.Managers.Content
 {
-    public class ContentManager
+    public class ContentManager : BaseManager
     {
         private readonly PageContentEntities _context = new PageContentEntities();
         private readonly Repository<PageContentEntities> _repository;
 
-        public ContentManager(string connectionName)
+        public ContentManager(string connectionName) : base(connectionName)
         {
             _repository = new Repository<PageContentEntities>(_context, connectionName);
         }
 
         public int GetPageid(string sectionname, string areaname)
         {
-            return _repository.GetSingle<PageEntity>(x => x.SectionName == sectionname && x.AreaName == areaname).PageId;
+            var applicationId = base.ApplicationId;
+            return _repository.GetSingle<PageEntity>(x =>
+                x.ApplicationId == applicationId 
+                && x.SectionName == sectionname 
+                && x.AreaName == areaname).PageId;
         }
 
         public List<SectionContent> GetPageContentList(int pageid)

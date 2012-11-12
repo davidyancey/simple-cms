@@ -8,12 +8,13 @@ using SimpleCms.Core.Models;
 
 namespace SimpleCms.Core.Managers.ImageGallery
 {
-    public class ImageGalleryManager
+    public class ImageGalleryManager : BaseManager
     {
         private readonly ImageGalleryEntities _context = new ImageGalleryEntities();
         private readonly Repository<ImageGalleryEntities> _repository;
 
         public ImageGalleryManager(string connectionName)
+            : base(connectionName)
         {
             _repository = new Repository<ImageGalleryEntities>(_context, connectionName);
         }
@@ -30,7 +31,11 @@ namespace SimpleCms.Core.Managers.ImageGallery
 
         public List<Gallery> GetGalleries()
         {
-            List<Gallery> galleries = Mapper.Map<List<GalleryEntity>, List<Gallery>>(_repository.Get<GalleryEntity>().ToList());
+            var applicationId = base.ApplicationId;
+            List<Gallery> galleries = Mapper.Map<List<GalleryEntity>, 
+                    List<Gallery>>(_repository.Get<GalleryEntity>(x =>
+                                    x.ApplicationId == applicationId).ToList());
+
             foreach (Gallery gallery in galleries)
             {
                 Gallery gallery1 = gallery;

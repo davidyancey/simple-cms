@@ -78,6 +78,7 @@
     <Compile Include="Enumerations\ApplicationSource.cs" />
     <Compile Include="Enumerations\HttpVerb.cs" />
     <Compile Include="Enumerations\ImageFormat.cs" />
+    <Compile Include="Managers\BaseManager.cs" />
     <Compile Include="Managers\Content\ContentManager.cs" />
     <Compile Include="Managers\ImageGallery\ImageGalleryManager.cs" />
     <Compile Include="Models\MemberProfile.cs" />

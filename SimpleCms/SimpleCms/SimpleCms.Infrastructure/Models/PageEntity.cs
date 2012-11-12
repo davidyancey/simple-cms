@@ -7,6 +7,7 @@ namespace SimpleCms.Infrastructure.Models
     {
         [Key]
         public int PageId { get; set; }
+        public Guid ApplicationId { get; set; }
         public string SectionName { get; set; }
         public string AreaName { get; set; }
         public DateTime createDate { get; set; }

@@ -7,7 +7,7 @@ namespace SimpleCms.Infrastructure.Models
     {
         [Key]
         public int GalleryId { get; set; }
-
+        public Guid ApplicationId { get; set; }
         public string GalleryName { get; set; }
         public Guid UserId { get; set; }
     }
